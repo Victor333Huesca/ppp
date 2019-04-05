@@ -1,0 +1,7 @@
+# Executable output
+**.o
+**.obj
+**.a
+**.lib
+**.exe
+**.s
